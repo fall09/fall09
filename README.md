@@ -18,7 +18,6 @@
 - 🗄️ Interested in real-world architecture, system design and high-quality API development  
 - 🎨 Learning frontend fundamentals to complete full-stack projects (React, HTML, CSS)  
 - 🤖 Improving AI knowledge (NLP basics, ML fundamentals, simple models)  
-- 📌 Creating **one new backend project every day** to expand my GitHub  
 - 🌍 Actively learning and building practical, real-world applications  
 
 ---
