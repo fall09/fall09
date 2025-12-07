@@ -13,7 +13,8 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **Computer Engineering Graduate**  
+- 💼 **Currently working as a Backend Developer at Softtech (Maximum Mobil)**  
+- 🎓 Computer Engineering Graduate  
 - 💼 Backend-focused developer (Java, Spring Boot, .NET, REST APIs)  
 - 🗄️ Interested in real-world architecture, system design and high-quality API development  
 - 🎨 Learning frontend fundamentals to complete full-stack projects (React, HTML, CSS)  
