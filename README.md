@@ -64,15 +64,6 @@ I am currently exploring:
 
 ---
 
-
-## 📈 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fall09&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fall09&layout=compact&theme=radical" />
-</p>
-
----
-
 👉 Check my pinned repositories for recent work!
 
 ---
