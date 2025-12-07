@@ -11,7 +11,7 @@
 
   
 <p align="center">
-  <img src="https://i.ibb.co/2yH9G6P/softtech-logo.png" width="140" />
+  <img src="[https://i.ibb.co/2yH9G6P/softtech-logo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw4S0kFCaQcdcfqHhi3AAR-XizOsh8nFU72w&s)" width="140" />
 </p>
 ---
 
