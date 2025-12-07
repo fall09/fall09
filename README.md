@@ -4,10 +4,10 @@
 <h3 align="center">Backend Developer | Computer Engineering Graduate</h3>
 
 <p align="center">
-🔭 Currently creating daily backend projects <br>
+🔭 Currently creating  backend projects <br>
 🌱 Learning Spring Boot, .NET, PostgreSQL, React and modern backend architectures <br>
 🤖 Exploring AI fundamentals and improving my skills step by step <br>
-🚀 Passionate about clean code, APIs, databases and scalable systems <br>
+🚀 Passionate about clean code, APIs, databases , microservices and scalable systems <br>
 </p>
 
 ---
