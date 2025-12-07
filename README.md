@@ -10,9 +10,8 @@
 🚀 Passionate about clean code, APIs, databases , microservices and scalable systems <br>
 
   
-</p>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Softechtw.svg/512px-Softechtw.svg.png" alt="Softtech Logo" width="120"/>
+  <img src="https://i.ibb.co/2yH9G6P/softtech-logo.png" width="140" />
 </p>
 ---
 
