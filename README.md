@@ -22,6 +22,22 @@
 
 ---
 
+## 💼 Work Experience
+
+### **AktifTech – Backend Developer (Passo SuperApp)**
+- Developed backend modules for large-scale Passo SuperApp  
+- Worked on REST APIs, authentication flows and database operations  
+
+### **Sofftech – Backend Developer (Maximum Mobil)**
+- Contributed to backend features of Maximum Mobil  
+- Worked on .NET–based microservices and payment-related modules  
+
+### **VakıfBank – Software Intern**
+- Took part in software development practices and enterprise systems  
+- Gained experience in banking technologies and backend workflows  
+
+---
+
 ## 🌐 Languages
 - 🇹🇷 **Turkish — Native**  
 - 🇬🇧 **English — C1 Advanced**  
