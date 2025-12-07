@@ -67,16 +67,11 @@ I am currently exploring:
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fall09&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fall09&layout=compact&theme=radical" />
 </p>
 
 ---
-
-## 🚀 Daily Project Challenge
-I am building & publishing **a new backend project every day**.
-
-
 
 👉 Check my pinned repositories for recent work!
 
