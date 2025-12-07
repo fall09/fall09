@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi, I'm Eylül 👋</h1>
 
 <h3 align="center">Backend Developer | Computer Engineering Graduate</h3>
